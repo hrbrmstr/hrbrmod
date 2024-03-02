@@ -1,7 +1,9 @@
 {
   "name": "hrbrmod",
-  "files": ["dist"],
-  "version": "0.1.0",
+  "files": [
+    "dist"
+  ],
+  "version": "0.1.1",
   "type": "module",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
@@ -17,5 +19,8 @@
   },
   "devDependencies": {
     "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "@observablehq/plot": "^0.6.13"
   }
 }

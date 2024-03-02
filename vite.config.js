@@ -10,7 +10,11 @@ export default defineConfig({
       fileName: 'index',
     },
     rollupOptions: {
+      external: ["@observablehq/plot"],
       output: {
+        globals: {
+          "@observablehq/plot": "Plot"
+        }
       },
     },
   },
