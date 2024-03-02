@@ -1,0 +1,1 @@
+(function(e,t){typeof exports=="object"&&typeof module<"u"?t(exports):typeof define=="function"&&define.amd?define(["exports"],t):(e=typeof globalThis<"u"?globalThis:e||self,t(e.hrbrmod={}))})(this,function(e){"use strict";const t="`sup 🌎?";function n(){return"WAT"}e.veryImportantValue=t,e.wat=n,Object.defineProperty(e,Symbol.toStringTag,{value:"Module"})});
