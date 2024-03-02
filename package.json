@@ -3,7 +3,7 @@
   "files": [
     "dist"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
@@ -21,6 +21,5 @@
     "vite": "^5.1.4"
   },
   "dependencies": {
-    "@observablehq/plot": "^0.6.13"
   }
 }

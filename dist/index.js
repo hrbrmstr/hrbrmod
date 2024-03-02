@@ -1,4 +1,4 @@
-import * as t from "@observablehq/plot";
+import * as t from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
 const n = "this is a string", o = "`sup 🌎?";
 function s() {
   return "WAT";
